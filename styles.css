@@ -5,10 +5,14 @@ opacity:1;
       background-color:lightgreen;
 }
 .text1{
+opacity:0.5;
   font-size:36px;
   text-weight:bold;
   text-align:center;
   width:400px;
+}
+.text1:hover {
+      opacity:1;
 }
 .btn2:hover {opacity:1;}
 .btn2 {opacity:0.5;
@@ -20,6 +24,10 @@ opacity:1;
   background-color:lightgreen;
   text-align:center;
   width:500px;
+opacity:0.5;
+}
+.text2:hover {
+      opacity:1;
 }
 .btn3:hover {opacity:1;}
 .btn3 {opacity:0.5;
@@ -31,4 +39,6 @@ opacity:1;
   background-color:lightgreen;
   text-align:center;
   width:500px;
+opacity:0.5;
 }
+.text3:hover {opacity:1;}
