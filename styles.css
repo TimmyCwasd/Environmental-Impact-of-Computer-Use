@@ -8,7 +8,7 @@ opacity:1;
   font-size:36px;
   text-weight:bold;
   text-align:center;
-  width:350px;
+  width:400px;
 }
 .btn2:hover {opacity:1;}
 .btn2 {opacity:0.5;
@@ -19,7 +19,7 @@ opacity:1;
   text-weight:bold;
   background-color:lightgreen;
   text-align:center;
-  width:350px;
+  width:400px;
 }
 .btn3:hover {opacity:1;}
 .btn3 {opacity:0.5;
@@ -30,5 +30,5 @@ opacity:1;
   text-weight:bold;
   background-color:lightgreen;
   text-align:center;
-  width:350px;
+  width:400px;
 }
