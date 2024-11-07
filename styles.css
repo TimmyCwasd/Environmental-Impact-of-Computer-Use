@@ -9,7 +9,7 @@ opacity:0.5;
   font-size:36px;
   text-weight:bold;
   text-align:center;
-  width:700px;
+  width:600px;
 }
 
 .btn2:hover {opacity:1;}
@@ -21,7 +21,7 @@ opacity:0.5;
   text-weight:bold;
   background-color:lightgreen;
   text-align:center;
-  width:700px;
+  width:600px;
 }
 
 .btn3:hover {opacity:1;}
@@ -33,5 +33,5 @@ opacity:0.5;
   text-weight:bold;
   background-color:lightgreen;
   text-align:center;
-  width:700px;
+  width:600px;
 }
