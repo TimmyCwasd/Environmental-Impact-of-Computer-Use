@@ -36,6 +36,7 @@ opacity:0.5;
   width:650px;
 }
 #green devices{
+      display: block;
       left-margin: auto;
       right-margin: auto;
       width: 50%;
