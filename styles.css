@@ -37,9 +37,7 @@ opacity:0.5;
 }
 #green devices{
       display: block;
-      left-margin: auto;
-      right-margin: auto;
-      width: 50%;
+      margin: auto;
 }
 .text {
       font-size: 22px;
