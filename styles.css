@@ -12,14 +12,16 @@ opacity:0.5;
   width:645px;
 }
 
-.btn2:hover {opacity:1;}
+.btn2:hover {
+      opacity:1;
+      text-weight: bold;
+}
 .btn2 {opacity:0.5;
        background-color:lightgreen;
 }
 .text2{
   font-size:36px;
   text-weight:bold;
-  background-color:lightgreen;
   text-align:center;
   width:645px;
 }
