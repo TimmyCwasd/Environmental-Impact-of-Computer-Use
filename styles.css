@@ -35,7 +35,11 @@ opacity:1;
   text-align:center;
   width:645px;
 }
-.image {
+#image1 {
+      display: block;
+      margin: auto;
+}
+#image2 {
       display: block;
       margin: auto;
 }
