@@ -8,7 +8,7 @@ opacity:1;
   font-size:36px;
   text-weight:bold;
   text-align:center;
-  width:100%;
+  width:325px;
 }
 
 .btn2:hover {
@@ -21,7 +21,7 @@ opacity:1;
   font-size:36px;
   text-weight:bold;
   text-align:center;
-  width:100%px;
+  width:325px;
 }
 
 .btn3:hover {opacity:1;}
@@ -32,7 +32,7 @@ opacity:1;
   font-size:36px;
   text-weight:bold;
   text-align:center;
-  width:50%;
+  width:325px;
 }
 #image1 {
       display: block;
