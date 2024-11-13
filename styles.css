@@ -3,13 +3,12 @@ opacity:1;
 }
 .btn1 {opacity:0.5;
       background-color:cornflowerblue;
-       width:750px;
+       width:600px;
 }
 .text1{
   font-size:36px;
   text-weight:bold;
   text-align:center;
-  width:750px;
 }
 
 .btn2:hover {
@@ -17,24 +16,23 @@ opacity:1;
 }
 .btn2 {opacity:0.5;
        background-color:cornflowerblue;
-       width:750px;
+       width:600px;
 }
 .text2{
   font-size:36px;
   text-weight:bold;
   text-align:center;
-  width:750px;
 }
 
 .btn3:hover {opacity:1;}
 .btn3 {opacity:0.5;
        background-color:cornflowerblue;
+       width:600px;
 }
 .text3{
   font-size:36px;
   text-weight:bold;
   text-align:center;
-  width:750px;
 }
 #image1 {
       display: block;
